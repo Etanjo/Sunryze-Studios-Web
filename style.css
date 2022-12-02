@@ -58,7 +58,7 @@ html, body {
 #menuItems{
   display: flex;
   flex-direction: row;
-  
+  position: sticky;
 }
 
 .mainMenu {
